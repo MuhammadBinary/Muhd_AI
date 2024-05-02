@@ -11,8 +11,6 @@ Hi, I am Muhammad Mujahid Haruna, I am a student, I am passionate about creating
 - Web Development ⌨️
 - Robotics and ...
 
-Skills: Python / Machine Learning / Data Analysis / Robotic 🤖 / Web Development / ...
-
 - 🔭 I’m currently working on My own Company 
 
 
